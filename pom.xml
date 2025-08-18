@@ -49,6 +49,14 @@
             <version>1.0</version>
         </dependency>
 
+        <!-- ExtentReports for better HTML reports -->
+        <dependency>
+            <groupId>com.aventstack</groupId>
+            <artifactId>extentreports</artifactId>
+            <version>5.1.1</version>
+        </dependency>
+
+
         <!-- TestNG for test automation -->
         <dependency>
             <groupId>org.testng</groupId>
