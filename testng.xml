@@ -3,8 +3,8 @@
 <suite name="MySuite">
     <test name="SampleTests">
         <classes>
-            <class name="common.test"/>
-            <class name="common.test2"/>
+            <class name="ncsTest.Signup"/>
+            <class name="ncsTest.NTwoFATest"/>
         </classes>
     </test>
 </suite>
